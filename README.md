@@ -5,9 +5,8 @@ Vrinda store want to Create an annual sales report for 2022. So that, Vrinda can
 
 
 Question-
-	Compare the sales and orders using single chart
-
-	Which month got the highest sales and orders?
+>	Compare the sales and orders using single chart
+>	Which month got the highest sales and orders?
 	Who purchased more_ men or women in 2022?
 	What are different orders status in 2022?
 	List top 10 states Contributing to maximum sales?
